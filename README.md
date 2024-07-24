@@ -4,9 +4,9 @@ My response to the VIVA engineering take home code challenge for the junior deve
 
 # Setup/Dependencies
 
-	Built in Windows with Python 3.12.4. [Python 3.12.4 Stable Release](https://www.python.org/downloads/release/python-3124)
+Built in Windows with Python 3.12.4. [Python 3.12.4 Stable Release](https://www.python.org/downloads/release/python-3124)
 	
-	If requests library not installed, run 'pip install requests'.
+If requests library not installed, run 'pip install requests'.
 	Libraries:
 	 - import requests
 	 - import csv
