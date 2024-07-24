@@ -17,6 +17,6 @@ My response to the VIVA engineering take home code challenge for the junior deve
 
 	Delete or move 'processedPayments.csv' before attempting to run main.py and generating a new output.
 
-> Post-challenge thoughts: It was my first time actually getting the chance to work with pagination so at first I was a bit confused when testing it in Postman admittedly but it ended up feeling really intuitive and felt like fun to work on. Definitely felt like a more engaging challenge than most "linear" feeling ones without being unreasonably difficult.
+> Post-challenge thoughts: It was my first time actually getting the chance to work with pagination so at first I was a bit confused when testing it in Postman admittedly, but it ended up feeling really intuitive and felt like fun to work on. Definitely felt like a more engaging challenge than most "linear" feeling ones without being unreasonably difficult.
 
 
