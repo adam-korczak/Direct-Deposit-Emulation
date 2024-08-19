@@ -16,7 +16,6 @@ If requests library not installed, run 'pip install requests'.
 	 Valid range includes 2024-06-14 to 2024-06-28.
 
 	Delete or move 'processedPayments.csv' before attempting to run main.py and generating a new output.
-
-> Post-challenge thoughts: It was my first time actually getting the chance to work with pagination so at first I was a bit confused when testing it in Postman admittedly, but it ended up feeling really intuitive and felt like fun to work on. Definitely felt like a more engaging challenge than most "linear" feeling ones without being unreasonably difficult.
+ 	Requires bearer token + base url 
 
 
