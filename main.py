@@ -2,15 +2,11 @@ import requests
 import csv
 import json
 
-base_url = "https://wpaki0e0gc.execute-api.us-east-1.amazonaws.com/production/v1"
-
-bearer_token = "klwyjwdjocqtlfizdfxylyrzvtftgnqw"
-
 headers = {
     "Authorization": f"Bearer {bearer_token}"
 }
 
-#we're fetching payments api to get the bank account id to fetch customers, then username to fetch loans (THINK OF IT LIKE FOREIGN KEYS) 
+#using pagination on new foreign key for each table to reach specific data we're looking for 
 def fetch_payments(date):
     payments = []
     continuation_token = "START"
