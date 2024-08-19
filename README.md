@@ -1,6 +1,6 @@
 
-# VIVA-Direct-Deposit-Emulation
-My response to the VIVA engineering challenge.
+# Direct-Deposit-Emulation
+My response to the direct deposit emulation engineering challenge.
 
 # Setup/Dependencies
 
@@ -16,6 +16,7 @@ If requests library not installed, run 'pip install requests'.
 	 Valid range includes 2024-06-14 to 2024-06-28.
 
 	Delete or move 'processedPayments.csv' before attempting to run main.py and generating a new output.
+ 
  	Requires bearer token + base url 
-
+	All data seen in example output is mock/test. 
 
